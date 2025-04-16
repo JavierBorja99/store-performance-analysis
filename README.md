@@ -2,7 +2,7 @@
 
 Este proyecto consiste en un análisis de datos realizado con Python utilizando pandas y matplotlib, con el fin de evaluar el rendimiento de cuatro tiendas y ayudar al dueño a decidir cuál debería cerrar por bajo rendimiento.
 
-🧭 1. Propósito del análisis
+🧭 Propósito del análisis:
 El objetivo principal es determinar, a través de análisis exploratorio de datos, cuál de las cuatro tiendas tiene el menor rendimiento en términos de facturación, popularidad de productos, satisfacción del cliente y costos logísticos. Este análisis busca aportar una base sólida para la toma de decisiones comerciales.
 
 Se analizaron los siguientes aspectos clave:
@@ -17,7 +17,7 @@ Productos más y menos vendidos
 
 Costo promedio del envío
 
-📁 2. Estructura del proyecto
+📁 Estructura del proyecto:
 css
 Copiar
 Editar
@@ -38,7 +38,7 @@ Tiendas_Analisis.ipynb: Notebook principal con el código de análisis.
 
 README.md: Archivo de documentación del proyecto.
 
-📈 3. Ejemplos de gráficos e insights
+📈 Ejemplos de gráficos e insights:
 💰 Facturación total por tienda
 Gráfico de barras que muestra que la Tienda 4 fue la de menor facturación, con $1,038,375,700.
 
@@ -73,14 +73,14 @@ Tienda 4: $23,459 (el más bajo)
 
 Insight final: A pesar del menor costo de envío, la Tienda 4 tuvo la menor facturación, una calificación inferior al promedio y menor volumen de ventas. Se recomienda su cierre.
 
-⚙️ 4. Instrucciones para ejecutar el notebook
-Abre el archivo Tiendas_Analisis.ipynb en Google Colab.
+⚙️ Instrucciones para ejecutar el notebook:
+-Abre el archivo Tiendas_Analisis.ipynb en Google Colab.
 
-Asegúrate de subir los archivos .csv de cada tienda a tu entorno Colab.
+-Asegúrate de subir los archivos .csv de cada tienda a tu entorno Colab.
 
-Ejecuta cada celda en orden para visualizar el análisis paso a paso.
+-Ejecuta cada celda en orden para visualizar el análisis paso a paso.
 
-Los gráficos generados mostrarán los resultados y comparaciones entre tiendas.
+-Los gráficos generados mostrarán los resultados y comparaciones entre tiendas.
 
 Requisitos:
 
