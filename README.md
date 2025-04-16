@@ -1,4 +1,5 @@
- Análisis de rendimiento de tiendas con Python
+📊 Análisis de rendimiento de tiendas con Python.
+
 Este proyecto consiste en un análisis de datos realizado con Python utilizando pandas y matplotlib, con el fin de evaluar el rendimiento de cuatro tiendas y ayudar al dueño a decidir cuál debería cerrar por bajo rendimiento.
 
 🧭 1. Propósito del análisis
